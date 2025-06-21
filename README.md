@@ -1,4 +1,4 @@
-# Core Net AB - Intro (Blockchain)
+# Core Net AB - Intro (Blockchain Ecosystem)
 ## Welcome to Core Net AB
 We are a group of Blockchain Enthusiasts. We supports & strives for Decentralized Community-Owned Block Producers. We are confident that Blockchain Ecosystem (interconnected network of components, participants, and technologies) has the potential to fundamentally change global economy and social systems. It has the potential to empower it's communities, it's user base, as well as involved stakeholders. We are deeply committed to contribute towards the growth of the blockchain ecosystem.
 <br/><br/>
