@@ -28,4 +28,5 @@ As top priority, our role is both to produce blocks and secure the blockchain ec
 
 ## Giving Back:
 <br/>
+
 * We will give back to the community by Education, Awareness Activities and Meaningful Innovation. We will use part of surplus revenue to support and develop innovative DApps to help global and local communities. As we grow with time, depending on circumstances, we will also focus on developing innovative "surplus revenue sharing models" within the applicable legal and ethical boundaries.
