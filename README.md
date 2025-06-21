@@ -15,6 +15,7 @@ Core Net AB has a vision to become a well recognized productive player in the fi
 <br/><br/>
 We believe that everyone can contribute and get benefit from blockchain ecosystem. Let's we all work together for the greater good and well-being of all global and local societies.
 <br/><br/>
+
 # WHY WORK WITH Core Net AB AND VOTE FOR US?
 <br/> We welcome anyone who is Blockchain Enthusiast and is willing to positively contribute for the greater good within blockchain ecosystem. We fully support the blockchain ecosystem constitution that enables the protection of the stakeholders (including, but not limited to: individual stakeholders) who are part of the valid chains.
 <br/><br/>
@@ -24,6 +25,7 @@ As top priority, our role is both to produce blocks and secure the blockchain ec
 <br/>
 
 * We have strong policy "against" bribes and paying money to buy votes. We do "not" accept any sum of money or other inducement offered or given to bribe someone.
+
 ## Giving Back:
 <br/>
 * We will give back to the community by Education, Awareness Activities and Meaningful Innovation. We will use part of surplus revenue to support and develop innovative DApps to help global and local communities. As we grow with time, depending on circumstances, we will also focus on developing innovative "surplus revenue sharing models" within the applicable legal and ethical boundaries.
